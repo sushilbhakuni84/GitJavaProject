@@ -12,6 +12,8 @@ public class myprog
 		System.out.println(name.substring(0,2));
 		
 		System.out.println(System.getProperty("user.dir"));
+		
+		System.out.println("test 1");
 	
 	} 
 	
